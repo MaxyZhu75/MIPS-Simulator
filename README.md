@@ -6,6 +6,6 @@ Please check [Project Report](https://github.com/MaxyZhu75/MIPS-Simulator/blob/m
 ## Simulation Results
 Please check [Results](https://github.com/MaxyZhu75/MIPS-Simulator/blob/main/summary/results/SimulationResult.pdf) for details.
 ## Contact
-Thank you so much for your interests. Note that this project can not straightforward be your course assignment solution. Do not download and submit my code without any change. Contact me and we can modify this MIPS simulator further.
+Thank you so much for your interests. Note that this project can not straightforward be your course assignment solution. Do not download and submit my code without any change. Contact me and I am happy to modify this MIPS simulator further with you.
 * Email: maoqinzhu@umass.edu
 * LinkedIn: [Max Zhu](https://www.linkedin.com/in/maoqin-zhu/)
