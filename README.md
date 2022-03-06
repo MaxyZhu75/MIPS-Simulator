@@ -5,7 +5,7 @@ This assignment requires a simple 5 stage pipelined machine to be simulated. The
 Please check [Project Report](https://github.com/MaxyZhu75/MIPS-Simulator/blob/main/summary/report/ProjectReport.pdf) and [Presentation Slides](https://github.com/MaxyZhu75/MIPS-Simulator/blob/main/summary/slides/PresentationSlides.pdf) for details.
 ## Simulation Results
 Please check out the [Results Document](https://github.com/MaxyZhu75/MIPS-Simulator/blob/main/summary/results/SimulationResult.pdf) for details.
-## :octocat: Contact
-Thank you so much for your interests. Note that this project can not straightforward be your course assignment solution. Do not download and submit my code without any change. Contact me and I am happy to modify this MIPS simulator further with you.
+## :calling: Contact
+Thank you so much for your interests. Note that this project can not straightforward be your course assignment solution. Do not download and submit my code without any change. Feel free to reach me out and I am happy to modify this MIPS simulator further with you.
 * Email: maoqinzhu@umass.edu or zhumaxy@gmail.com
 * LinkedIn: [Max Zhu](https://www.linkedin.com/in/maoqin-zhu/)
